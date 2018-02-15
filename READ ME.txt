@@ -1,0 +1,3 @@
+The CSV files, the data files are in below format:
+Id,Tweet,Date.
+Moreover all files are to be named same as tweet_.csv
